@@ -1,0 +1,87 @@
+.Menue {
+    text-align: center;
+    background-color: #B4CDCD;
+    color: white;
+    width: 1500px;
+    margin: 20px auto
+    font-family: futura;
+    font-size: 25px;
+    }
+
+.Header {
+    font-family: Josefin Sans;
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+    width: 1500px;
+    margin: 100px auto;
+    background: url("unsplash.JPG")
+    }
+
+.Boxlinks {
+    font-family: Josefine Sans;
+    background-color: #d9d9d9;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    width: 500px;
+    margin-left: 0px;
+    padding: 50px;
+    height: 400px;
+    }
+
+.Boxrechts {
+    font-family: Josefine Sans;
+    background-color: #d9d9d9;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    width: 500px;
+    margin-left: 650px;
+    margin-top: -500px;
+    padding: 50px;
+    height: 400px;
+    }
+
+a {
+    font-family: Josefine Sans;
+    color: white;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+    padding-top: 5px;
+    padding-down: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: #c9c8c8;
+    }
+
+a:hover{
+    background-color: #708090
+    }
+
+.image {
+	width: 760px;
+	height: 360px;
+	background: url(Janina.JPG) no-repeat;
+	display: inline-block;
+    }
+.image:hover {
+	background: url("Janina Hover.JPG") no-repeat;
+	transition: 2s ease;
+    }
+
+.center {
+    margin: 0 auto;
+    }
+
+.Footer {
+    text-align: center;
+    background-color: #B4CDCD;
+    color: white;
+    width: 1500px;
+    margin: 20px auto
+    font-family: Josefine Sans;
+    font-size: 20px;
+    }
